@@ -8,6 +8,7 @@ namespace Test
     public class Test
     {
         private string setTest { set; get; }
-        public int setName { set; get; }
+        public string setName { set; get; }
+        public string setAddress { set; get; }
     }
 }
